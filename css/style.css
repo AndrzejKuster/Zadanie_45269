@@ -1,0 +1,28 @@
+body {
+    background-color: bisque;
+}
+
+.first {
+    background-color: aqua;
+    color: blue;
+}
+
+.second {
+    background-color: darkgray;
+    color: aqua;
+}
+
+.third {
+    background-color: blueviolet;
+    color: darkturquoise;
+}
+
+.fourth {
+    background-color: cadetblue;
+    color: firebrick;
+}
+
+.fifth {
+    background-color: chocolate;
+    color: honeydew;
+}
